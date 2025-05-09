@@ -40,7 +40,9 @@ const Community = () => {
             A Lot More....
           </p>
           <button className="bg-[#00048a] w-[90%] md:w-[80%] lg:w[70%] py-2 px-4 mx-auto font-semibold hover:scale-[1.04] duration-100 ease-in-out">
-            <a href="">Joint The Community</a>
+            <a href="https://whatsapp.com/channel/0029Vax73bD1XquWwcbc2s1z">
+              Joint The Community
+            </a>
           </button>
         </div>
       </div>
