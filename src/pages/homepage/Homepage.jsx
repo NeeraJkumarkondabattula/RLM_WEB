@@ -4,7 +4,7 @@ import Community from "../../components/sections/Community";
 
 const Homepage = () => {
   return (
-    <div>
+    <div className="w-full lg:w-[1440px]">
       <Routine />
       <Community />
     </div>

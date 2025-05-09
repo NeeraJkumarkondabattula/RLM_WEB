@@ -2,7 +2,7 @@ import React from "react";
 
 const Routine = () => {
   return (
-    <section className="w-full h-[auto] lg:h-[580px] max-w-[1200px] lg:flex mx-auto lg:flex-row-reverse lg:bg-[url(https://cdn.shopify.com/s/files/1/0637/6194/0660/files/Group_1000007430.png?v=1746796173)] bg-cover bg-center">
+    <section className="w-full h-[auto] lg:h-[580px] lg:flex mx-auto lg:flex-row-reverse lg:bg-[url(https://cdn.shopify.com/s/files/1/0637/6194/0660/files/Group_1000007430.png?v=1746796173)] bg-cover bg-center">
       <div className="w-full lg:w-[50%] overflow-hidden lg:hidden">
         <img
           className=""
@@ -24,7 +24,7 @@ const Routine = () => {
             Asnwer this short 2 min quiz to understand your skin better and
             reach your grooming goals faster.
           </p>
-          <button className="bg-[#00048a] w-[90%] md:w-[80%] lg:w[70%] py-2 px-4 mx-auto font-semibold hover:scale-[1.04] duration-100 ease-in-out">
+          <button className="bg-[#00048a] w-[90%] md:w-[80%] lg:w[70%] lg:text-white py-2 px-4 mx-auto font-semibold hover:scale-[1.04] duration-100 ease-in-out">
             <a href="">Take The Quiz</a>
           </button>
         </div>

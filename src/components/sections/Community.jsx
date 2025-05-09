@@ -2,15 +2,15 @@ import React from "react";
 
 const Community = () => {
   return (
-    <section className="w-full max-w-[1200px] lg:flex h-full mx-auto bg-black ">
-      <div className="w-full lg:w-[45%] overflow-hidden">
+    <section className="w-full lg:h-[520px] lg:flex h-full mx-auto bg-black ">
+      <div className="w-full lg:w-[50%] overflow-hidden">
         <img
           className="scale-[1.2]"
           src="https://cdn.shopify.com/s/files/1/0637/6194/0660/files/Group_1000007421.png?v=1746508555"
           alt=""
         />
       </div>
-      <div className="w-full lg:w-[55%] p-5 md:p-10 md:mx-auto lg:py-10 lg:pr-20 text-center text-white">
+      <div className="w-full lg:w-[50%] p-5 md:p-10 md:mx-auto lg:py-10 lg:pr-20 text-center text-white lg:my-auto">
         <div className="flex flex-col gap-3">
           <h1 className="text-5xl lg:text-6xl w-[100%] text-center font-bold leading-14 uppercase tracking-tight mb-[-10px]">
             Join The Community
