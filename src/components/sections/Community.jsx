@@ -11,7 +11,7 @@ const Community = () => {
       </div>
       <div class="w-full lg:w-[55%] p-5 md:p-10 md:mx-auto lg:py-10 lg:pr-20 text-center text-white">
         <div class="flex flex-col gap-3">
-          <h1 class="text-5xl w-[100%] text-center font-bold leading-14 uppercase tracking-tight">
+          <h1 class="text-5xl lg:text-6xl w-[100%] text-center font-bold leading-14 uppercase tracking-tight">
             Join The Community
           </h1>
           <p class="text-sm md:text-xl">
@@ -38,7 +38,7 @@ const Community = () => {
           <p class="text-[10px] md:text-lg lg:text-lg uppercase">
             A Lot More....
           </p>
-          <button class="bg-[#00048a] w-[80%] md:w-[70%] lg:w[60%] py-3 px-5 mx-auto font-semibold hover:scale-[1.04] duration-100 ease-in-out">
+          <button class="bg-[#00048a] w-[80%] md:w-[70%] lg:w[60%] py-2 px-4 mx-auto font-semibold hover:scale-[1.04] duration-100 ease-in-out">
             <a href="">Joint The Community</a>
           </button>
         </div>
