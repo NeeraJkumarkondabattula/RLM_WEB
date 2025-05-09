@@ -12,7 +12,7 @@ const Community = () => {
       </div>
       <div className="w-full lg:w-[55%] p-5 md:p-10 md:mx-auto lg:py-10 lg:pr-20 text-center text-white">
         <div className="flex flex-col gap-3">
-          <h1 className="text-5xl lg:text-6xl w-[100%] text-center font-bold leading-14 uppercase tracking-tight">
+          <h1 className="text-5xl lg:text-6xl w-[100%] text-center font-bold leading-14 uppercase tracking-tight mb-[-10px]">
             Join The Community
           </h1>
           <p className="text-sm md:text-xl">
