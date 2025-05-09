@@ -2,7 +2,7 @@ import React from "react";
 
 const Community = () => {
   return (
-    <section className="w-full lg:w-[1200px] lg:flex h-full mx-auto bg-black ">
+    <section className="w-full max-w-[1200px] lg:flex h-full mx-auto bg-black ">
       <div className="w-full lg:w-[45%] overflow-hidden">
         <img
           className="scale-[1.2]"
@@ -36,7 +36,7 @@ const Community = () => {
               Early Access To Discounts
             </li>
           </ul>
-          <p className="text-[10px] md:text-lg lg:text-lg uppercase">
+          <p className="text-[10px] md:text-lg lg:text-lg uppercase font-semibold">
             A Lot More....
           </p>
           <button className="bg-[#00048a] w-[90%] md:w-[80%] lg:w[70%] py-2 px-4 mx-auto font-semibold hover:scale-[1.04] duration-100 ease-in-out">

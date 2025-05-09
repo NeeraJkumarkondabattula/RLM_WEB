@@ -1,11 +1,11 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import Community from "./components/sections/Community";
+import Homepage from "./pages/homepage/Homepage";
 
 function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Community />}>
+        <Route path="/" element={<Homepage />}>
           {/* User Layout */}
         </Route>
         <Route>{/* Admin Layout */}</Route>
