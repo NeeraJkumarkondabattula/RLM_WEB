@@ -10,8 +10,8 @@ const Routine = () => {
           alt=""
         />
       </div>
-      <div className="w-full lg:w-[50%] p-10 md:p-15 md:mx-auto lg:py-10 text-center text-white lg:text-black my-auto  absolute top-20 md:top-80 lg:top-36 lg:left-20 lg:float-left bg-trasparent">
-        <div className="flex flex-col gap-3">
+      <div className="w-full lg:w-[50%] p-10 md:p-15 md:mx-auto lg:py-10 text-center text-white lg:text-black my-auto  absolute top-40 md:top-80 lg:top-36 lg:left-20 lg:float-left bg-trasparent">
+        <div className="flex flex-col gap-2">
           <p className="text-3xl md:text-4xl font-md mb-[-10px]">Skincare</p>
           <h1 className="text-4xl lg:text-5xl w-[100%] text-center font-bold leading-14 tracking-tight ">
             Routine Finder
