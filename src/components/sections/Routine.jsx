@@ -10,7 +10,7 @@ const Routine = () => {
           alt=""
         />
       </div>
-      <div className="w-full lg:w-[50%] p-10 md:p-15 md:mx-auto lg:py-10 text-center text-white my-auto bg-transparent absolute top-20 lg:static">
+      <div className="w-full lg:w-[50%] p-10 md:p-15 md:mx-auto lg:py-10 text-center text-black my-auto bg-transparent absolute top-20 lg:static">
         <div className="flex flex-col gap-3">
           <p className="text-2xl md:text-xl font-md mb-[-10px]">Skincare</p>
           <h1 className="text-4xl lg:text-5xl w-[100%] text-center font-bold leading-14 tracking-tight ">
